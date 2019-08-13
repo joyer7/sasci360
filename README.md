@@ -9,3 +9,7 @@ SAS CI 360
 
     - ci360_Userguide.pdf  (** CI 360 API **)
     - SAS_CI_360.pptx (** API Call Example **)
+
+**0. API Example**
+
+    - CI360_API_CALL.ipynb  (** Discovery **)
